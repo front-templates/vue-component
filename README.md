@@ -1,2 +1,1 @@
-# vue-component
-Vue.js component template
+# <%= appName %>
